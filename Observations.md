@@ -1,2 +1,6 @@
 2020-04-04
-Antes de fazer os testes unitários, de funcionalidade e demais é preciso criar um plano de testes? Segundo a literatura Sim, porém devido a proposta do projeto a resposta pode ser diferente.
+TODO: Antes de fazer os testes unitários, de funcionalidade e demais é preciso criar um plano de testes? Segundo a literatura Sim, porém devido a proposta do projeto a resposta pode ser diferente.
+
+2021-03-31
+TODO: Adicionar o Swagger ou outra forma de documentação para a API
+TODO: Adicionar documentação para as classes de domínio, por exemplo com o Doctum (Antigo Sami) < https://github.com/code-lts/doctum >

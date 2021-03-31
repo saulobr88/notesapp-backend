@@ -6,4 +6,4 @@ Status: Done
 Data: 2020-03-31
 Subject: Upgrade Laravel FROM 7.x to 8.x
 Body: Ref.: https://laravel.com/docs/8.x/upgrade
-Status: Doing
+Status: Done
